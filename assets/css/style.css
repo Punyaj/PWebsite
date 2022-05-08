@@ -961,6 +961,7 @@ footer span a:hover{
         flex: 100%;
     }
 
+    
     .services .serv-content .card{
         width: calc(50% - 10px);
         margin-bottom: 20px;
@@ -995,7 +996,7 @@ footer span a:hover{
 
 @media (max-width: 500px) {
     .home .home-content .text-2{
-        font-size: 50px;
+        font-size: 48px;
     }
     .home .home-content .text-3{
         font-size: 27px;

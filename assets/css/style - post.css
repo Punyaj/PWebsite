@@ -196,6 +196,23 @@ margin-bottom: 20px;
     }
 }
 @media (max-width: 947px){
+    section{
+        padding: 10px;
+    }
+    .container {
+        font-family: "Quicksand", sans-serif;
+        z-index: 99999999;  
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        max-width: 1300px;
+        padding: 10px 10px;
+        gap: 2rem;
+      }
+    .main-box{
+        font-size: 13px;
+        padding: 5px;
+    }  
     .menu-btn{
         display: block;
         z-index: 999;
