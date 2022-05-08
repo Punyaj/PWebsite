@@ -113,6 +113,7 @@
   }
   
   .card__image{
+      opacity: 0.5;
       width:100%;
       height:auto;
       background-position: center;
@@ -131,6 +132,7 @@
     -ms-transform:scale(1.25);
     -o-transform:scale(1.25);
     transform: scale(1.25);
+    opacity: 1;
  }
 
   .tag {
@@ -583,7 +585,16 @@ section .title{
     color: #0beef9;
     letter-spacing: 1.5px;
 }
-
+.blog-text1{
+    line-height: 1.6rem;
+    color: #0beef9;
+    letter-spacing: 1.5px;
+}
+.blog-text1:hover{
+    line-height: 1.6rem;
+    color: red;
+    letter-spacing: 1.5px;
+}
 .services, .teams{
     color:#fff;
     background: linear-gradient(145deg, #1e2024, #23272b);

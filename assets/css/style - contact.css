@@ -959,7 +959,7 @@ section .title{
   .hover-underline-animation:hover:after {
     transform: scaleX(1);
     transform-origin: bottom left;
-  }
+  } 
 
 .contact .contact-content .column .contact-image{
     width: 100%;
