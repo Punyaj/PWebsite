@@ -99,7 +99,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: rgba(0, 0, 0, 0);
+    background: rgba(0, 0, 0, 0.162);
 }
 .navbar .max-width{
     display: flex;
@@ -995,6 +995,9 @@ footer span a:hover{
 }
 
 @media (max-width: 500px) {
+    section{
+        padding: 50px 0;
+    }
     .home .home-content .text-2{
         font-size: 48px;
     }
