@@ -86,7 +86,17 @@
     line-height: 1.2;
     color: #c4cfde;
     margin-top: 20px;
-    margin-bottom: 40px;}
+    margin-bottom: 20px;
+    /* margin-bottom: 40px; */
+}
+
+.heading-para{
+    color: #6d727a;
+    font-size: 16px;
+    line-height: 20px;
+
+
+}
 
 .main-box p{
     font-size: 16px;
